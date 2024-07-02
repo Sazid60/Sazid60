@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Sazid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" /> </p>
+<img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
 - 🔭 I’m currently working on [Propex-Real-Estate Website](https://propex-client.web.app/)
 
