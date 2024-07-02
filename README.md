@@ -18,9 +18,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing](https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahnawaz-sazid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahnawaz-sazid/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/shahnawaz.sazid.71/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahnawaz-sazid/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
