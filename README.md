@@ -1,5 +1,6 @@
 
-<img src="https://i.ibb.co/Qndyt9q/1-Wq-Mpsn9c8-Jsbb-Ix-IRr50ug.gif" alt="1-Wq-Mpsn9c8-Jsbb-Ix-IRr50ug" style="height: 200px;" />
+<img src="https://i.ibb.co/Qndyt9q/1-Wq-Mpsn9c8-Jsbb-Ix-IRr50ug.gif" alt="Banner" style="width: 100%; height: 200px;" />
+
 
 <h1 align="center">Hi 👋, I'm Shahnawaz Sazid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
