@@ -38,11 +38,14 @@
 </p>
 
 <h3 align="left">GITHUB STATS:</h3>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazid60&" alt="sazid60" />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazid60&show_icons=true&locale=en" alt="sazid60" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazid60&show_icons=true&locale=en&layout=compact" alt="sazid60" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazid60&theme=transparent" alt="sazid60" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazid60&show_icons=true&locale=en&theme=transparent" alt="sazid60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazid60&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sazid60" />
+</p>
+
 
 <p align="center">&nbsp;</p>
 
