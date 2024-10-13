@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shahnawazsazid60@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing
+- 📄 Know about my experiences : https://drive.google.com/file/d/1fUf4CXPlgFGS2AaB7kJFNp8oSC8PiJqV/view?usp=sharing
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
