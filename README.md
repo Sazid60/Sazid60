@@ -7,13 +7,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently practicing **Next.Js, Typescript**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Node.Js, Express.Js, MongoDB, Firebase, Next.Js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Node.Js, Express.Js, MongoDB, Firebase, Next.Js, Typescript**
 
 - 📫 How to reach me **shahnawazsazid60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing](https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing](https://drive.google.com/file/d/1TlS02-2yKWIzNA6BaVrBtzGuDvRS0rHP/view?usp=sharing)](https://drive.google.com/file/d/1fUf4CXPlgFGS2AaB7kJFNp8oSC8PiJqV/view?usp=sharing)
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
