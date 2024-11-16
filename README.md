@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
-- 🌱 I’m currently practicing **Next.Js, Typescript**
+- 🌱 I’m currently Learning **Mongose**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Node.Js, Express.Js, MongoDB, Firebase, Next.Js, Typescript**
 
