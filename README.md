@@ -3,13 +3,13 @@
 
 
 <h1 align="center">HI 👋, I'M SHAHNAWAZ SAZID</h1>
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer, Towards Fullstack Path</h3>
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
-- 🌱 I’m currently Learning **Mongose**
+- 🌱 I’m currently Learning **TypeScript,Mongoose**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Node.Js, Express.Js, MongoDB, Firebase, Next.Js, Typescript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript,TypeScript, React.js, Node.Js, Express.Js, MongoDB,Mongoose Firebase, Next.Js, Typescript**
 
 - 📫 How to reach me **shahnawazsazid60@gmail.com**
 
