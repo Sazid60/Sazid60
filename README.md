@@ -5,19 +5,63 @@
   alt="sazid-card" 
 />
 <p>
-<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&duration=3000&pause=1000&color=4C8FDA&vCenter=true&width=477&height=70&lines=Hi!+I'm+Shahnawaz+Sazid;I'ma+Fullstack+Deeloper" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&duration=3000&pause=1000&color=4C8FDA&vCenter=true&width=477&height=70&lines=Hi!+I'm+Shahnawaz+Sazid;I'm+a+Fullstack+Deeloper" alt="Typing SVG" /></a>
 </p>
 
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
-- 🌱 I’m currently Learning **TypeScript,Mongoose**
+<table>
+  <tr>
+    <td>
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript,TypeScript, React.js, Node.Js, Express.Js, MongoDB,Mongoose Firebase, Next.Js, Typescript**
+<h2>👨‍💻 WHO AM I ?</h2>
+Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
+I'm powered by curiosity, late-night coding sessions, and snacks. I write code that sometimes works on the first try (rare footage), but most of the time it’s me yelling at my terminal until the bug gives up. <br><br>  
+My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment.
 
-- 📫 How to reach me **shahnawazsazid60@gmail.com**
+</td>
+    <td>
+      <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="1300" height="auto">
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences : https://drive.google.com/file/d/1fUf4CXPlgFGS2AaB7kJFNp8oSC8PiJqV/view?usp=sharing
+<table>
+  <tr>
+    <td>
+
+<h2 >🛠️ Techs I Pretend to Master</h2>
+
+- <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
+- <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
+-   <strong>Auth & Hosting </strong>: Firebase Auth, Vercel, Render
+- <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code
+</td>
+  <td>
+
+<h2 >📚 Currently Roasting Myself With</h2>
+
+- Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
+-  Mongoose – thinking it's helping, but my data is still getting lost 
+- PostgreSQL – why does it feels like I'm speaking to a wall?  
+- Prisma – acting like I know what a migration is
+</td>  </tr>
+</table>
+
+
+<h3 align="center" ><u>TECH STACKS :</u></h3>
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,react,nextjs,ts&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,mongodb,figma,netlify,vercel,git&theme=dark" />
+</a>
+</p>
+
 
 <h3 align="center"><u>SOCIALS :</u></h3>
  
@@ -35,25 +79,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyr123-v6f)
 
  </h1>
-
-</br>
-
-<h3 align="center" ><u>TECH STACKS :</u></h3>
-</br>
-<p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,react,nextjs,ts&theme=dark" />
-</a>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,mongodb,figma,netlify,vercel,git&theme=dark" />
-</a>
-</p>
-
-</br>
-
 <h3 align="center" ><u>GITHUB STATS :</u></h3>
-</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
