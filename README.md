@@ -19,14 +19,15 @@
 Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
 I'm powered by curiosity, late-night coding sessions, and snacks. I write code that sometimes works on the first try (rare footage), but most of the time it’s me yelling at my terminal until the bug gives up. <br><br>  
 My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment.
+<br> <br>
 </td>
 </tr>
-</table>
-
-  <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="100%" height="auto">
-
-<table align="center">
   <tr>
+    <td align="center">
+    <img  src="https://i.ibb.co.com/bGw5YP2/67q3cd.webp" width="" height="auto">
+</td>
+</tr>
+ <tr>
     <td>
 
 <h2 >🛠️ Techs I Pretend to Master</h2>
@@ -37,9 +38,8 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 - <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code
 </td>
   </tr>
-</table>
-<table align="center">
-  <tr>
+
+   <tr>
   <td>
 
 <h2 >📚 Currently Roasting Myself With</h2>
@@ -50,6 +50,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 - Prisma – acting like I know what a migration is
 </td>  </tr>
 </table>
+
 
 
 <h3 align="center" >TECH STACKS :</h3>
@@ -97,6 +98,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid60&theme=github-dark" />
 </p>
 
+<!-- <img  src="https://i.ibb.co.com/bGw5YP2/67q3cd.webp" width="auto" height="auto"> -->
 
 <p align="center">&nbsp;</p>
 
