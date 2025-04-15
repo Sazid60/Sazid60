@@ -1,5 +1,10 @@
 
-<img src="https://i.ibb.co.com/pBvTYx6k/sazid-card.png" alt="1-Wq-Mpsn9c8-Jsbb-Ix-IRr50ug" border="0" />
+<img 
+  src="https://i.ibb.co.com/pBvTYx6k/sazid-card.png" 
+  alt="sazid-card" 
+  style="border: 2px solid #000; border-radius: 12px;" 
+/>
+
 
 
 <h1 align="center">HI 👋, I'M SHAHNAWAZ SAZID</h1>
