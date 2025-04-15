@@ -2,13 +2,11 @@
 <img 
   src="https://i.ibb.co.com/pBvTYx6k/sazid-card.png" 
   alt="sazid-card" 
-  style="border: 2px solid #000; border-radius: 12px;" 
 />
 
 
 
-<h1 align="center">HI 👋, I'M SHAHNAWAZ SAZID</h1>
-<h3 align="center">A Passionate Frontend Developer, Towards Fullstack Path</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&pause=1000&width=435&lines=Hi+%2C+I'm+Shahnawaz+Sazid.+I'm+a+Fullstack+Developer+From+Bangladesh" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
