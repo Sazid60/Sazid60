@@ -11,39 +11,41 @@
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
-<table>
+<table  align="center">
   <tr>
-    <td  width="50%" valign="top">
+    <td>
 
 <h2>👨‍💻 WHO AM I ?</h2>
 Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
 I'm powered by curiosity, late-night coding sessions, and snacks. I write code that sometimes works on the first try (rare footage), but most of the time it’s me yelling at my terminal until the bug gives up. <br><br>  
 My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment.
-
 </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="auto" height="auto">
-    </td>
-  </tr>
+</tr>
 </table>
 
-<table>
+  <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="100%" height="auto">
+
+<table align="center">
   <tr>
     <td>
 
 <h2 >🛠️ Techs I Pretend to Master</h2>
 
 - <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
-- <strong>Backend</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
+- <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
 -   <strong>Auth & Hosting </strong>: Firebase Auth, Vercel, Render
 - <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code
 </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
   <td>
 
 <h2 >📚 Currently Roasting Myself With</h2>
 
 - Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
--  Mongoose – thinking it's helping, but data is still getting lost 
+-  Mongoose – thinking it's helping, but my data is still getting lost 
 - PostgreSQL – why does it feels like I'm speaking to a wall?  
 - Prisma – acting like I know what a migration is
 </td>  </tr>
@@ -97,3 +99,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 
 
 <p align="center">&nbsp;</p>
+
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ba184922-72ee-48f9-9141-39abfbc219ad/9a15ac25-ea78-48a2-ba7b-6c9fe9a4dc25.png" /></a> -->
+
+<!-- [![Sazid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sazid60&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
