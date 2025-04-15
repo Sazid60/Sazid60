@@ -22,7 +22,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 </td>
 </tr>
   <tr>
-    <td > <h1 align="center">  <img  src="https://i.ibb.co.com/Df5G1Zcq/67q3cd.gif" width="auto" height="auto"> </h1> </td>
+    <td > <p align="center">  <img  src="https://i.ibb.co.com/Df5G1Zcq/67q3cd.gif" width="auto" height="auto"> </p> </td>
 </tr>
 
 
@@ -34,7 +34,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 - <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
 - <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
 -   <strong>Auth & Hosting </strong>: Firebase Auth, Vercel, Render
-- <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code
+- <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code <br> <br>
 </td>
   </tr>
 
@@ -46,7 +46,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 - Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
 -  Mongoose – thinking it's helping, but my data is still getting lost 
 - PostgreSQL – why does it feels like I'm speaking to a wall?  
-- Prisma – acting like I know what a migration is
+- Prisma – acting like I know what a migration is <br> <br>
 </td>  </tr>
 </table>
 
