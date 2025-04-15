@@ -6,7 +6,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&pause=1000&center=true&vCenter=true&width=434&height=64&lines=Hi+!++I'm+Shahnawaz+Sazid;I'm+a+Fullstack+Developer+From+BD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&duration=3000&pause=1000&width=435&lines=Hi+!++I'm+Shahnawaz+Sazid;I'm+a+Fullstack+Developer+From+BD" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
 
