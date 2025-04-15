@@ -1,6 +1,6 @@
 
 <img 
-  src="https://ibb.co.com/XZr2Cf2k" 
+  src="https://i.ibb.co.com/yncfQmfB/sazid-card-gif.gif" 
   alt="sazid-card" 
 />
 >
