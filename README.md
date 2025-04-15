@@ -19,14 +19,13 @@
 Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
 I'm powered by curiosity, late-night coding sessions, and snacks. I write code that sometimes works on the first try (rare footage), but most of the time it’s me yelling at my terminal until the bug gives up. <br><br>  
 My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment.
-<br> <br>
 </td>
 </tr>
   <tr>
-    <td align="center">
-    <img  src="https://i.ibb.co.com/bGw5YP2/67q3cd.webp" width="" height="auto">
-</td>
+    <td align="center"> <img  src="https://i.ibb.co.com/bGw5YP2/67q3cd.webp" width="" height="auto"> </td>
 </tr>
+
+
  <tr>
     <td>
 
