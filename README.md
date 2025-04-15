@@ -1,6 +1,6 @@
 
 <img 
-  src="https://i.ibb.co.com/pBvTYx6k/sazid-card.png" 
+  src="https://i.ibb.co.com/n8cGsd98/Black-Modern-Professional-Designer-Business-Card.png" 
   alt="sazid-card" 
 />
 
