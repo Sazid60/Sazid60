@@ -43,14 +43,14 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 <h2 >📚 Currently Roasting Myself With</h2>
 
 - Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
--  Mongoose – thinking it's helping, but my data is still getting lost 
+-  Mongoose – thinking it's helping, but data is still getting lost 
 - PostgreSQL – why does it feels like I'm speaking to a wall?  
 - Prisma – acting like I know what a migration is
 </td>  </tr>
 </table>
 
 
-<h3 align="center" ><u>TECH STACKS :</u></h3>
+<h3 align="center" >TECH STACKS :</h3>
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -63,7 +63,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 </p>
 
 
-<h3 align="center"><u>SOCIALS :</u></h3>
+<h3 align="center">SOCIALS :</h3>
  
  <h1  align="center">
 
@@ -79,7 +79,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zephyr123-v6f)
 
  </h1>
-<h3 align="center" ><u>GITHUB STATS :</u></h3>
+<h3 align="center" >GITHUB STATS :</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
@@ -97,7 +97,3 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 
 
 <p align="center">&nbsp;</p>
-
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ba184922-72ee-48f9-9141-39abfbc219ad/9a15ac25-ea78-48a2-ba7b-6c9fe9a4dc25.png" /></a> -->
-
-<!-- [![Sazid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sazid60&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
