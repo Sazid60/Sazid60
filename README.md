@@ -29,7 +29,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
  <tr>
     <td>
 
-<h2 >🛠️ TECHS I PRETEND TO MASTER</h2>
+<h2 >🛠️ TECHS I USE</h2>
 
 - <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
 - <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
@@ -41,7 +41,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
    <tr>
   <td>
 
-<h2 >📚 CURRENTLY GETTING ROASTED BY </h2>
+<h2 >📚 CURRENTLY LEARNING </h2>
 
 - Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
 -  Mongoose – thinking it's helping, but my data is still getting lost 
