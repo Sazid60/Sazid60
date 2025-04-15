@@ -40,7 +40,7 @@
 <h3 align="center" style="font-weight: bold; font-size: 30px; color: #36BCF7FF;">GITHUB STATS:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sazid60&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazid60&theme=dark&layout=compact&langs_count=10&hide_border=true&custom_title=Languages Used by Sazid" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazid60&theme=dark&layout=compact&langs_count=10&hide_border=true" height="180" />
  
 </p>
 
