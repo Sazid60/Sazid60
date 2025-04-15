@@ -1,8 +1,8 @@
 
-<img 
-  src="https://i.ibb.co.com/n8cGsd98/Black-Modern-Professional-Designer-Business-Card.png" 
+[<img 
+  src="[https://i.ibb.co.com/n8cGsd98/Black-Modern-Professional-Designer-Business-Card.png](https://i.ibb.co.com/n8cGsd98/Black-Modern-Professional-Designer-Business-Card.png)" 
   alt="sazid-card" 
-/>
+/>](https://i.ibb.co.com/n8cGsd98/Black-Modern-Professional-Designer-Business-Card.png)
 
 
 
