@@ -22,7 +22,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 
 </td>
     <td>
-      <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="1300" height="auto">
+      <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="auto" height="auto">
     </td>
   </tr>
 </table>
