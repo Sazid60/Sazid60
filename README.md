@@ -25,9 +25,17 @@
 <h3 align="left">Tech Stack:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,react,nextjs,ts,firebase,express,nodejs,mongodb,figma,github,netlify,vercel,git&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vite,react,nextjs,ts&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,mongodb,figma,github,netlify,vercel&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+</a>
 </p>
 
 
