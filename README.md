@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,mongodb,figma,github,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,mongodb,figma,git,netlify,vercel&theme=dark" />
 </a>
 
 <a href="https://skillicons.dev">
