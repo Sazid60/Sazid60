@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td>
+    <td  width="50%" valign="top">
 
 <h2>👨‍💻 WHO AM I ?</h2>
 Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
@@ -21,7 +21,7 @@ I'm powered by curiosity, late-night coding sessions, and snacks. I write code t
 My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment.
 
 </td>
-    <td>
+    <td width="50%" align="center" valign="middle">
       <img src="https://i.ibb.co.com/xT4gVDd/fullstackdeveloper.gif" width="auto" height="auto">
     </td>
   </tr>
@@ -34,7 +34,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 <h2 >🛠️ Techs I Pretend to Master</h2>
 
 - <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
-- <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
+- <strong>Backend</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
 -   <strong>Auth & Hosting </strong>: Firebase Auth, Vercel, Render
 - <strong>Dev Side Quests</strong>: Git/GitHub, Postman, VS Code
 </td>
