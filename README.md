@@ -1,6 +1,9 @@
 
 <p align="center">
-  <a href="https://shahnawaz-sazid-portfolio.vercel.app"><img src="https://i.ibb.co.com/gZMBGR3Q/sazid-card.jpg" alt="sazid-card" border="0" /></a>
+  <a href="https://shahnawaz-sazid-portfolio.vercel.app"><img 
+  src="https://i.ibb.co.com/7tJ6H1XB/sazid-card.jpg" 
+  alt="sazid-card" 
+/></a>
 <p>
 <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&duration=3000&pause=1000&color=4C8FDA&vCenter=true&width=477&height=70&lines=Hi!+I'm+Shahnawaz+Sazid;I'm+a+Fullstack+Deeloper" alt="Typing SVG" /></a>
 </p>
@@ -19,7 +22,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 </td>
 </tr>
   <tr>
-    <td > <p align="center">  <img  src="https://i.ibb.co.com/Df5G1Zcq/67q3cd.gif" width="auto" height="auto"> </p> </td>
+    <td align="center"> <img  src="https://i.postimg.cc/cJ6w1ZZh/67q3cd.gif" width="" height="auto"> </td>
 </tr>
 
 
