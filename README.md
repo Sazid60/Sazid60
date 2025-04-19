@@ -1,11 +1,6 @@
 
 <p align="center">
-<a href="https://shahnawaz-sazid-portfolio.vercel.app" >
-<img 
-  src="https://i.ibb.co.com/7tJ6H1XB/sazid-card.jpg" 
-  alt="sazid-card" 
-/>
-</a>
+  <a href="https://shahnawaz-sazid-portfolio.vercel.app"><img src="https://i.ibb.co.com/gZMBGR3Q/sazid-card.jpg" alt="sazid-card" border="0" /></a>
 <p>
 <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=45&duration=3000&pause=1000&color=4C8FDA&vCenter=true&width=477&height=70&lines=Hi!+I'm+Shahnawaz+Sazid;I'm+a+Fullstack+Deeloper" alt="Typing SVG" /></a>
 </p>
