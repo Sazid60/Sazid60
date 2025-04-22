@@ -9,7 +9,9 @@
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" />
+<!-- <img src="https://komarev.com/ghpvc/?username=sazid60&label=Profile%20views&color=0e75b6&style=flat" alt="sazid60" /> -->
+
+<a href="https://wakatime.com/@ba184922-72ee-48f9-9141-39abfbc219ad"><img src="https://wakatime.com/badge/user/ba184922-72ee-48f9-9141-39abfbc219ad.svg" alt="Total time coded since Apr 15 2025" /></a>
 
 <table  align="center">
   <tr>
