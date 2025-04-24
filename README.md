@@ -45,10 +45,11 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
 
 <h2 >📚 CURRENTLY LEARNING </h2>
 
-- Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet  
--  Mongoose – thinking it's helping, but my data is still getting lost 
-- PostgreSQL – why does it feels like I'm speaking to a wall?  
-- Prisma – acting like I know what a migration is <br> <br>
+- Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet
+- Mongoose – thinking it's helping, but my data is still getting lost
+- PostgreSQL – why does it feel like I'm speaking to a wall?
+- Prisma – acting like I know what a migration is
+- AWS – like renting a spaceship when I just need a bicycle <br> <br>
 </td>  </tr>
 </table>
 
