@@ -86,19 +86,14 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
  </h1>
 <h3 align="center" >GITHUB STATS :</h3>
 <p align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github" width="100%"   />
+  <img src="https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed" width="100%"   />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=github" width="49%"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=github" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights" width="49%"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights" width="49%" />
 </p>
-
-
-
 <p align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sazid60&theme=github" width="100%" />
-  
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sazid60&theme=city_lights" width="100%" />
 </p>
   
 <p align="center">&nbsp;</p>
