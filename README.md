@@ -90,9 +90,6 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sazid60&theme=blue_navy&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sazid60&theme=blue_navy&hide_border=true" height="180" />
-</p>
 
 
 <p align="center">
