@@ -86,14 +86,19 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
  </h1>
 <h3 align="center" >GITHUB STATS :</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sazid60&theme=blue_navy&hide_border=true" height="180" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Sazid60&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" height="180" /> -->
+<!--   <img src="https://nirzak-streak-stats.vercel.app/?user=Sazid60&theme=blue_navy&hide_border=true" height="180" /> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sazid60&theme=city_lights" width="62%" />
 </p>
 
 
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid60&theme=github-dark" />
+<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid60&theme=github-dark" /> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights" width="30%"  />
+<img src="https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed" width="45%"   />
+  
 </p>
 
 <!-- <img  src="https://i.ibb.co.com/bGw5YP2/67q3cd.webp" width="auto" height="auto"> -->
