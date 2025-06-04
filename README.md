@@ -17,7 +17,7 @@
   <tr>
     <td>
 
-<h2>👨‍💻 WHO AM I ?</h2>
+<h2>WHO AM I ?</h2>
 Hey! I'm  a Full Stack Web Developer who still googles <strong>how to center a div</strong> but I make cool stuff while doing it 😎 <br> <br> 
 I'm powered by curiosity, late-night coding sessions, and snacks. I write code that sometimes works on the first try (rare footage), but most of the time it’s me yelling at my terminal until the bug gives up. <br><br>  
 My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my polite friend who tells me when I’m wrong), and the occasional “<strong>why isn’t this working??</strong>” moment. <br> <br>
@@ -31,7 +31,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
  <tr>
     <td>
 
-<h2 >🛠️ TECHS I USE</h2>
+<h2 >TECHS I USE</h2>
 
 - <strong>Frontend Magic</strong>: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
 - <strong>Backend Sorcery</strong>: Node.js, Express.js, MongoDB, Mongoose, JWT
@@ -43,7 +43,7 @@ My main tools? The <strong>MERN stack</strong>, <strong>TypeScript</strong> (my 
    <tr>
   <td>
 
-<h2 >📚 CURRENTLY LEARNING </h2>
+<h2 >CURRENTLY LEARNING </h2>
 
 - Next.js + TypeScript – it's like a complicated dance, but I keep stepping on my own feet
 - Mongoose – thinking it's helping, but my data is still getting lost
