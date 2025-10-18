@@ -47,7 +47,7 @@ Currently, my focus is on expanding my knowledge and mastering <strong>cloud tec
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/CSS-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB"/>
