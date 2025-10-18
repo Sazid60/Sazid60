@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://shahnawaz-sazid-portfolio.vercel.app"><img 
-  src="https://i.ibb.co.com/35Hhj4dm/sazid.jpg" 
+  src="https://i.ibb.co.com/b5rFWrkV/sazid.png" 
   alt="sazid-card" 
 /></a>
 <p>
