@@ -18,12 +18,12 @@
     <td>
 
 <h2>WHO AM I?</h2>
-Hey! I'm a <strong>Full Stack Developer</strong> who enjoys building things that actually work - from pixel-perfect UIs to powerful APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I love bringing ideas to life through clean code and scalable architecture. <br> <br>
-On the <strong>frontend</strong>, I craft smooth, responsive experiences with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, and a dash of animation magic using <strong>Framer Motion</strong>. <br> <br>
+Hey! I'm a <strong>Full Stack Developer</strong> who enjoys building things that actually work - from pixel-perfect UIs to powerful APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I love bringing ideas to life through clean code and scalable architecture. <br><br>
+On the <strong>frontend</strong>, I craft smooth, responsive experiences with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, and a dash of animation magic using <strong>Framer Motion</strong>. <br><br>
 On the <strong>backend</strong>, I build secure and performant systems with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong>, <strong>Prisma</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong> - powered by <strong>TypeScript</strong> and the occasional “why is this query slow?” moment. <br><br>
-Whether it’s handling auth, APIs, databases, or design - I make sure every part of the stack talks to each other perfectly 
-(after a few bug fights).
-</td> 
+Whether it’s handling auth, APIs, databases, or design - I make sure every part of the stack talks to each other perfectly (after a few bug fights). <br><br>
+Currently, my focus is on expanding my knowledge and mastering <strong>cloud technologies</strong>, deploying scalable applications, and learning more tools that make modern software reliable, fast, and future-ready.
+
 
 
 </tr>
