@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://shahnawaz-sazid-portfolio.vercel.app"><img 
+  <a href="https://shahnawaz-sazid.vercel.app"><img 
   src="https://i.ibb.co.com/b5rFWrkV/sazid.png" 
   alt="sazid-card" 
 /></a>
