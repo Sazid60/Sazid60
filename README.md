@@ -78,8 +78,12 @@ Currently, my focus is on expanding my knowledge and mastering <strong>cloud tec
   <img src="https://img.shields.io/badge/Redis-121212?style=for-the-badge&logo=redis&logoColor=DC382D"/>
   <img src="https://img.shields.io/badge/JWT-121212?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Passport.js-121212?style=for-the-badge&logo=passport&logoColor=34E27A"/>
-  <img src="https://img.shields.io/badge/Nodemailer-121212?style=for-the-badge&logo=mail.ru&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/Nodemailer-121212?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/SSLCommerz-121212?style=for-the-badge&logo=paytm&logoColor=00B9F1"/>
+  <img src="https://img.shields.io/badge/Stripe-121212?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
+  <img src="https://img.shields.io/badge/OpenRouter-121212?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 
 
 ---
