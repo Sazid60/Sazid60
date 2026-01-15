@@ -18,17 +18,28 @@
     <td>
 
 <h2>WHO AM I?</h2>
-Hey! I'm a <strong>Full Stack Developer</strong> who enjoys building things that actually work - from pixel-perfect UIs to powerful APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I love bringing ideas to life through clean code and scalable architecture. <br><br>
-On the <strong>frontend</strong>, I craft smooth, responsive experiences with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, and a dash of animation magic using <strong>Framer Motion</strong>. <br><br>
-On the <strong>backend</strong>, I build secure and performant systems with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong>, <strong>Prisma</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong> - powered by <strong>TypeScript</strong> and the occasional “why is this query slow?” moment. <br><br>
-Whether it’s handling auth, APIs, databases, or design - I make sure every part of the stack talks to each other perfectly (after a few bug fights). <br><br>
-Currently, my focus is on expanding my knowledge and mastering <strong>cloud technologies</strong>, deploying scalable applications, and learning more tools that make modern software reliable, fast, and future-ready.
+<p>
+Hey! I'm a <strong>backend-oriented Full Stack Developer</strong> who loves building things that actually work -  from pixel-perfect UIs to powerful, reliable APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I enjoy bringing ideas to life through clean code, scalable architecture, and thoughtful design.
+</p>
 
+<p>
+On the <strong>frontend</strong>, I craft smooth, responsive experiences with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong>, and a dash of animation magic using <strong>Framer Motion</strong>. On the <strong>backend</strong>, I build secure, high-performance systems with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong>, <strong>Prisma</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>, all powered by <strong>TypeScript</strong> and curiosity-driven problem solving.
+</p>
 
+<p>
+Being <strong>backend-oriented</strong>, I specialize in integrating frontend interfaces with complex backend logic, handling auth, APIs, databases, and design- making sure every part of the stack communicates perfectly (after a few bug battles). Experienced in building modular, maintainable, and user-centered applications, I focus on delivering scalable solutions that align with business goals while providing seamless experiences.
+</p>
 
-</tr>
-  <tr>
-    <td align="center"> <img  src="https://i.postimg.cc/cJ6w1ZZh/67q3cd.gif" width="" height="auto"> </td>
+<p>
+Currently, I’m expanding my expertise in <strong>cloud technologies</strong>, deploying future-ready applications, and learning modern tools and practices that make software fast, reliable, and resilient. Dedicated to continuous growth, I’m passionate about contributing to impactful projects and staying at the forefront of emerging software trends.
+</p>
+
+<br/>
+
+<tr>
+  <td align="center">
+    <img src="https://i.postimg.cc/cJ6w1ZZh/67q3cd.gif" width="" height="auto">
+  </td>
 </tr>
 
 
