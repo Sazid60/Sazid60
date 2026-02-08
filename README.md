@@ -191,7 +191,7 @@ Currently, I’m expanding my expertise in <strong>cloud technologies</strong>, 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sazid60&theme=city_lights" width="100%" />
 </p> -->
   <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Sazid60&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=Sazid60&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 <p align="center">&nbsp;</p>
 
