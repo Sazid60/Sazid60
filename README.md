@@ -1,4 +1,13 @@
 
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://shahnawaz-sazid.vercel.app"><img 
   src="https://i.ibb.co.com/b5rFWrkV/sazid.png" 
@@ -171,7 +180,7 @@ Currently, I’m expanding my expertise in <strong>cloud technologies</strong>, 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/Shahnawaz_Sazid) -->
  </h1>
 <h2 align="left" >GITHUB STATS :</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed" width="100%"   />
 </p>
 <p align="center">
@@ -180,8 +189,10 @@ Currently, I’m expanding my expertise in <strong>cloud technologies</strong>, 
 </p>
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sazid60&theme=city_lights" width="100%" />
+</p> -->
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Sazid60&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-  
 <p align="center">&nbsp;</p>
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ba184922-72ee-48f9-9141-39abfbc219ad/9a15ac25-ea78-48a2-ba7b-6c9fe9a4dc25.png" /></a> -->
