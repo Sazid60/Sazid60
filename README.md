@@ -28,7 +28,7 @@
 
 <h2>WHO AM I?</h2>
 <p>
-Hey! I'm a <strong>backend-oriented Full Stack Developer</strong> who loves building things that actually work -  from pixel-perfect UIs to powerful, reliable APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I enjoy bringing ideas to life through clean code, scalable architecture, and thoughtful design.
+Hey! I'm a <strong>Full Stack Developer</strong> who loves building things that actually work -  from pixel-perfect UIs to powerful, reliable APIs. Fueled by curiosity, caffeine, and late-night “just one more commit” sessions, I enjoy bringing ideas to life through clean code, scalable architecture, and thoughtful design.
 </p>
 
 <p>
