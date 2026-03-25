@@ -182,7 +182,7 @@ Currently, I’m expanding my expertise in <strong>cloud technologies</strong>, 
 <h2 align="left" >GITHUB STATS :</h2>
 <p align="center">
   <!-- <img src="https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed" width="100%"   /> -->
-  <img src="https://streak-stats.demolab.com?user=sazid60&theme=github-dark-blue" width="100%"   />
+  <img src="https://streak-stats.demolab.com?user=sazid60&theme=github-dark-dimmed" width="100%"   />
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights" width="49%"  />
